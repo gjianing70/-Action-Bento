@@ -1,0 +1,6 @@
+{
+  "provider": "custom",
+  "model": "deepseek-chat",
+  "apiKey": "sk-your-api-key-here",
+  "endpoint": "https://api.deepseek.com/v1"
+}
