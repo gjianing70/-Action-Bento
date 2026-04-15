@@ -1,0 +1,7 @@
+# Video2Action — Action Bento
+# Core dependencies (stdlib-only for MVP, extend as needed)
+# No third-party packages required for the base server.
+# Future additions:
+# openai>=1.30.0        # LLM dehydration analysis
+# opencv-python>=4.9.0  # Video frame capture
+# flask>=3.0.0          # If migrating from stdlib HTTP server
